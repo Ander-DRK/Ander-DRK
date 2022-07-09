@@ -1,6 +1,9 @@
 # Seja Bem Vindo ao Meu Perfil! 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ander-DRK&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ander-DRK&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+##
+ <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+ ##
 <!--
 **Ander-DRK/Ander-DRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
